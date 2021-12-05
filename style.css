@@ -42,6 +42,7 @@ font-family: 'Lexend Deca', sans-serif; */
 
 .section-one {
     position: relative;
+    width: 100%;
 }
 section {
     width: 280px;
